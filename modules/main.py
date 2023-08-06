@@ -9,5 +9,5 @@ def main():
     get_weather(api_key, city_name)
 
 
-if __name__ is "__main__":
+if __name__ == "__main__":
     main()
