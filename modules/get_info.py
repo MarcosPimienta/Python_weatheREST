@@ -1,3 +1,6 @@
+import requests
+
+
 def get_weather(api_key, city):
 
     if not api_key or not city:
