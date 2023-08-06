@@ -3,6 +3,8 @@ This is a simple Python script that fetches and displays the current temperature
 
 # Prerequisites
 This script requires Python 3.x and the requests library. You also need an API key from OpenWeatherMap.
+![API_Key](https://github.com/MarcosPimienta/Python_weatheREST/assets/60362847/e3d9072c-9ea3-44fd-ba1e-a59762e3b798)
+
 
 # Installation
 First, clone this repository to your local machine using git clone.
